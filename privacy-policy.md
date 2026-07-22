@@ -42,7 +42,7 @@ By providing your mobile phone number and opting in to receive text messages fro
 - Service reminders and scheduling confirmations
 - Promotional offers and company news (if you have opted in)
 
-**Message Frequency:** Message frequency varies. You may receive up to **[X] messages per month** depending on your account activity and the programs you have opted into.
+**Message Frequency:** Message frequency varies. You may receive up to **100 messages per month** depending on your account activity and the programs you have opted into.
 
 **Message and data rates may apply.** Standard message and data rates charged by your mobile carrier may apply to messages you send and receive.
 
@@ -120,8 +120,8 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
 **Big D Equipment Co.**
-[Address]
-[City, State, ZIP]
-Phone: [Phone Number]
-Email: [Email Address]
-Website: [Website URL]
+4501 E Hwy 80
+Midland, TX 79706
+Phone: 432-688-8100
+Email: automationsupport@bigdco.com
+Website: www.bigdco.com
