@@ -29,7 +29,7 @@ By providing your mobile phone number and opting in to receive SMS messages from
 
 - You are the account holder or have the account holder's permission to enroll in SMS messaging.
 - You consent to receive text messages from Big D Equipment Co. at the mobile number you provide.
-- **Message frequency varies.** You may receive up to **[X] messages per month** depending on your account activity and the programs you have opted into.
+- **Message frequency varies.** You may receive up to **100 messages per month** depending on your account activity and the programs you have opted into.
 - **Message and data rates may apply.** Standard carrier rates for messages and data may apply.
 - To opt out, reply **STOP** to any text message. You will receive a confirmation, and no further messages will be sent unless you re-enroll.
 - To request help, reply **HELP** to any message or contact us directly (see Section 12).
@@ -120,8 +120,8 @@ We reserve the right to modify these Terms at any time. We will notify you of ma
 If you have any questions about these Terms and Conditions, please contact us:
 
 **Big D Equipment Co.**
-[Address]
-[City, State, ZIP]
-Phone: [Phone Number]
-Email: [Email Address]
-Website: [Website URL]
+4501 E Hwy 80
+Midland, TX 79706
+Phone: 432-688-8100
+Email: automationsupport@bigdco.com
+Website: www.bigdco.com
